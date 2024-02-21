@@ -1,0 +1,119 @@
+
+.back-button{
+    margin-left: 12px;
+    background-color: black;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    height: 40px;
+    width: 200px;
+    #span-back-button{
+        color: rgb(92, 92, 92);
+    }
+}
+
+.back-button:hover{
+    margin-left: 12px;
+
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-back-button{
+        color: #0096ff;
+    }
+}
+
+.back-button:active{
+    margin-left: 12px;
+
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: white;
+    }
+}
+
+.back-button:visited{
+    margin-left: 12px;
+
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: #0096ff;
+    }
+}
+
+
+.first-column{
+    height: 600px;
+    min-height: 60%;
+}
+
+.second-column{
+
+}
+
+.main-card{
+    width: 65%;
+    height: fit-content;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    background-color: black;
+    margin-left: 25%;
+}
+
+#main-card-title{
+    margin-top: -300px;
+    text-align: center;
+}
+
+
+.image-card{
+    height: 80%;
+    min-height: 80%;
+}
+
+.desc-card{
+   width: 70%;
+   height: fit-content;
+   border: solid 1px;
+   border-color: rgb(92, 92, 92);
+}
+
+.title{
+    margin-top: 10px;
+}
+
+
+
+
+#span-title,#txt-sinopsis,#txtAño,#txtGenero,#txtDuracion,#txtPais{
+    
+           color: rgb(92, 92, 92);
+      }
+
+
+.desc-card:hover{
+    border-color: #0096ff;
+   
+#span-title,#txt-sinopsis,#txtAño,#txtGenero,#txtDuracion,#txtPais{
+          
+             color: white;
+  
+        }
+
+   
+
+   
+}
+
+.main-card:hover{
+    border-color: #0096ff;
+}

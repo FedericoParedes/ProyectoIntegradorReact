@@ -1,0 +1,80 @@
+
+.column{
+    margin-bottom: 50px;
+    min-height: 180px;
+    max-height: 500px;
+}
+
+
+
+
+.tarjeta{
+    border: solid 1px;
+    border-color: none;
+    height: 100%;
+    width: 100%;
+    padding: auto;
+}
+
+
+
+.tarjeta:hover{
+    border-color: #0096ff;
+
+    #titulo{
+        color: #0096ff;
+     }
+         
+   }
+
+
+.imagen{
+    height: auto;
+}
+
+#titulo{
+    color: rgb(92, 92, 92);
+    text-wrap: wrap;
+    font-size: medium;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.card-body{
+    height: auto;
+}
+
+.card-title{
+    height: auto;
+    text-align: center;
+    vertical-align: text-bottom;
+    justify-content: baseline;
+      
+}
+
+
+
+.boton{
+    background-color: black;
+    border-color: rgb(92, 92, 92);
+    align-self: center;
+    width: 100%;    
+    span{
+        color: rgb(92, 92, 92);
+    }
+}
+
+.boton:hover{
+    
+    background-color: black; 
+     border: solid 1px;
+     border-color: #0096ff;
+     span{
+      color: #0096ff;
+     }
+
+    
+  
+
+}

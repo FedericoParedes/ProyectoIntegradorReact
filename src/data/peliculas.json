@@ -1,0 +1,1368 @@
+
+
+[
+
+    {
+        "titulo": "La Isla",
+         "imagen": "../LaIsla.jpg",
+       "sinopsis": "En el año 2019, un mercenario persigue a dos clones que escaparon de unas instalaciones de investigación tras descubrir su verdadero destino.",
+       "año": "2005",
+       "genero": "Ciencia Ficion",
+       "duracion": "136 minutos",
+       "pais": "Estados Unidos"
+    },
+    
+    {
+      
+        "titulo": "Ultravioleta",
+        "imagen": "../public/Ultravioleta.jpg",
+        "sinopsis": "A finales del siglo XXI, una enfermedad de vampiros altera a algunas personas, otorgándoles una fuerza, inteligencia y velocidad sobrehumanas. Estalla una guerra civil mundial mientras la gente, sintiéndose amenazada por estos seres, exige su exterminio. Uno de estos seres mutados es una mujer que intenta proteger a un niño que es visto como una amenaza contra la humanidad.",
+        "año": "2006",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "88 minutos",
+        "pais": "Estados Unidos"
+
+
+    
+    },
+    
+    {
+        "titulo": "Tomb Raider",
+        "imagen": "../public/TombRaider.jpg",
+        "sinopsis": "Lara Croft afronta su mayor desafío: encontrar el Triángulo de Luz, una reliquia legendaria con poder para alterar el tiempo y el espacio. Debe hacerlo antes de que caiga en manos de una peligrosa secta que quiere dominar el mundo: los Iluminati.",
+        "año": "2001",
+        "genero": "Accion/Aventura",
+        "duracion": "100 minutos",
+        "pais": "Estados Unidos"
+
+
+    
+    },
+    
+    
+    {
+        "titulo": "Se Lo Que Hicieron El Verano Pasado",
+
+        "imagen": "../public/SeLoQueHicieronElVeranoPasado.jpg",
+        "sinopsis": "Cuatro jóvenes atropellan a un desconocido en la carretera, pero deciden arrojar el cadáver al mar y guardar el secreto para siempre. Un año después, todos reciben una nota con un mensaje que dice saber lo que hicieron el verano pasado.",
+        "año": "1997",
+        "genero": "Terror/Slasher",
+        "duracion": "101 minutos",
+        "pais": "Estados Unidos"
+
+        
+
+
+    
+    },
+    
+    {
+        "titulo": "Resident Evil 1",
+
+        "imagen": "../public/ResidentEvil1.jpg",
+        "sinopsis": "Tras la fuga de un virus, una inteligencia artificial cierra un laboratorio científico secreto, obligando a un grupo de militares a luchar contra mortíferos zombis para poder escapar.",
+        "año": "2002",
+        "genero": "Accion/Ciencia Ficcion/Terror",
+        "duracion": "100 minutos",
+        "pais": "Estados Unidos/Reino Unido/Alemania/Francia"
+
+
+    },
+
+    {
+        "titulo": "Piratas Del Caribe",
+
+        "imagen": "../public/PiratasDelCaribe.jpg",
+        "sinopsis": "El capitán Barbossa le roba el barco al pirata Jack Sparrow y secuestra a Elizabeth, amiga de Will Turner. Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes.",
+        "año": "2003",
+        "genero": "Accion/Aventura/Comedia",
+        "duracion": "143 minutos",
+        "pais": "Estados Unidos"
+
+    },
+
+    {
+        "titulo": "Oblivion",
+
+        "imagen": "../public/Oblivion.jpg",
+        "sinopsis": "Jack Harper y Victoria Olsen son los únicos habitantes de la Tierra, destruida hace sesenta años. Harper, un mecánico de aviación, rescata a una mujer antes de abandonar la Tierra para siempre e inicia una batalla para salvar a la humanidad.",
+        "año": "2013",
+        "genero": "Accion/Aventura/Ciencia Ficcion",
+        "duracion": "125 minutos",
+        "pais": "Estados Unidos"
+
+
+    },
+
+    {
+        "titulo": "El Dia Que La Tierra Se Detuvo",
+
+        "imagen": "../public/ElDiaQueLaTierraSeDetuvo.jpg",
+        "sinopsis": "Un misterioso objeto del espacio aterriza en mitad de Central Park. En su interior viaja Klaatu, un extraterrestre que asegura llegar a la Tierra para advertir a la población sobre una inminente crisis global, pero no todo es lo que parece.",
+        "año": "2008",
+        "genero": "Ciencia Ficion",
+        "duracion": "103 minutos",
+        "pais": "Estados Unidos/Canada"
+
+    },
+
+    {
+        "titulo": "Lo Imposible",
+        "imagen": "../public/LoImposible.jpg",
+        "sinopsis": "María, Henry y sus tres hijos pequeños vuelan desde Japón a Tailandia para pasar las vacaciones de Navidad en la playa. La mañana después de Navidad, mientras se bañan en la piscina, un tsunami colosal destroza el hotel y gran parte de la costa del sudeste asiático. La familia tendrá que luchar para sobrevivir y reencontrarse.",
+        "año": "2012",
+        "genero": "Drama",
+        "duracion": "113 minutos",
+        "pais": "España"
+    },
+
+    {
+        "titulo": "La Huerfana",
+        "imagen": "../public/LaHuerfana.jpg",
+        "sinopsis": "Devastados por la pérdida de su bebé nonato, Kate y John deciden adoptar una niña. En el orfanato, ambos se enamoran de una pequeña llamada Esther, y muy pronto la pareja lleva a su nueva hija a casa. Pero cuando se desarrollan una serie de eventos misteriosos, Kate empieza a sospechar que algo endemoniado se oculta detrás del rostro angelical de la niña.",
+        "año": "2009",
+        "genero": "Terror Psicologico",
+        "duracion": "123 minutos",
+        "pais": "Estados Unidos"
+    },
+
+    {
+        "titulo": "Vanilla Sky",
+        "imagen": "../public/VanillaSky.jpg",
+        "sinopsis": "David Aames tiene todo para ser feliz: es guapo, rico y trabaja en una famosa empresa de publicidad de Nueva York. Sin embargo, un accidente automovilístico le cambiará la vida.",
+        "año": "2001",
+        "genero": "Drama/Suspenso",
+        "duracion": "136 minutos",
+        "pais": "Estados Unidos"
+    },
+
+    {
+        "titulo": "Desde Mi Cielo",
+        "imagen": "../public/DesdeMiCielo.jpg",
+        "sinopsis": "Después de que es violada y asesinada, una joven de 14 años vigila desde el cielo mientras su familia intenta superar lo vivido y el homicida continúa impune.",
+        "año": "2009",
+        "genero": "Drama",
+        "duracion": "135 minutos",
+        "pais": "Estados Unidos/Nueva Zelanda"
+    },
+
+   
+  {
+       "titulo": "Los Angeles De Charlie",
+       "imagen": "../public/LosAngelesDeCharlie.jpg",
+       "sinopsis": "La misión de Natalie, Dylan y Alex, las agentes secretas de Charlie, es recuperar unos anillos que han desaparecido y que contienen información acerca del plan de protección de testigos del FBI. Una antigua compañera de la agencia es la sospechosa.",
+        "año": "2000",
+        "genero": "Accion/Comedia",
+        "duracion": "99 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Plan De Vuelo",
+    "imagen": "../public/PlanDeVuelo.jpg",
+    "sinopsis": "Una mujer viuda enloquece cuando su hija de seis años desaparece en un avión que viaja de Berlín a Nueva York.",
+        "año": "2005",
+        "genero": "Suspenso",
+        "duracion": "98 minutos",
+        "pais": "Estados Unidos/Alemania"
+   },
+
+   {
+    "titulo": "Monsters Inc",
+    "imagen": "../public/MonstersInc.jpg",
+    "sinopsis": "Monsters, Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan es uno de sus mejores asustadores. Sullivan es un monstruo grande e intimidante de piel azul con grandes manchas color púrpura y cuernos. Su asistente, mejor amigo y compañero de cuarto es Mike Wazowski, un pequeño y alegre monstruo verde con un solo ojo. Por una falla durante la jornada de trabajo, conocen a Boo, una niña pequeña que entra a un mundo donde los humanos no están permitidos.",
+        "año": "2001",
+        "genero": "Animacion",
+        "duracion": "92 minutos",
+        "pais": "Estados Unidos"
+   },
+
+   {
+    "titulo": "Las Virgenes Suicidas",
+    "imagen": "../public/LasVirgenesSuicidas.jpg",
+    "sinopsis": "Hombres recuerdan a cinco hermanas intrigantes, cuyos padres las mantuvieron en cuarentena después del suicidio de una de ellas.",
+        "año": "1999",
+        "genero": "Drama",
+        "duracion": "97 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Ni En Tus Sueños",
+    "imagen": "../public/NiEnTusSueños.jpg",
+    "sinopsis": "Kirk es un tipo muy simple que trabaja en el aeropuerto. Sin embargo, un día conoce casualmente a la despampanante Molly, una chica que no parece estar a su alcance, pero que, poco a poco, empieza a concederle citas.",
+        "año": "2010",
+        "genero": "Comedia",
+        "duracion": "104 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Resident Evil 2",
+    "imagen": "../public/ResidentEvil2.jpg",
+    "sinopsis": "Alice es una de las supervivientes del desastre bioquímico que ha acabado con toda la población de Racoon City. Sometida a experimentos que han modificado su genética, ahora Alice posee más fuerza, sentidos y destreza. Estas habilidades serán las que deberá utilizar para escapar de la vida peligrosa de Racoon City. Junto con otros supervivientes, Alice deberá luchar contra las fuerzas de la Umbrella Corporation, los zombis que plagan la ciudad y la criatura más mortal: Nemesis.",
+        "año": "2004",
+        "genero": "Accion/ciencia Ficcion/Terror",
+        "duracion": "94 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Kill Bill Volumen 1",
+    "imagen": "../public/KillBillVol1.jpg",
+    "sinopsis": "Una asesina despierta de un coma y, tras descubrir que el hijo que llevaba en el vientre ya no está, decide salir a buscar a los criminales que la traicionaron.",
+        "año": "2003",
+        "genero": "Accion/Suspenso/Gore",
+        "duracion": "110 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "La Casa De Cera",
+    "imagen": "../public/LaCasaDeCera.jpg",
+    "sinopsis": "Un grupo de amigos se ve obligado a buscar ayuda en un pueblo fantasma cuando el vehículo en el que viajan se daña. Desafortunadamente, se topan con un lugar en el que habitan unos gemelos que sepultan vivas a sus víctimas en cera.",
+        "año": "2005",
+        "genero": "Terror/Slasher",
+        "duracion": "113 minutos",
+        "pais": "Estados Unidos/Australia"
+
+   },
+
+
+   {
+    "titulo": "El Hombre Araña 2",
+    "imagen": "../public/ElHombreAraña2.jpg",
+    "sinopsis": "El atormentado Peter Parker lucha contra un científico siniestro que utiliza sus tentáculos mecánicos con fines destructivos.",
+        "año": "2004",
+        "genero": "Accion/Ciencia Ficcion/Drama",
+        "duracion": "127 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "La Guerra De Los Mundos",
+    "imagen": "../public/LaGuerraDeLosMundos.jpg",
+    "sinopsis": "Cuando la Tierra es invadida por los alienígenas, Ray Ferrier se ve obligado a luchar por sobrevivir y salvar la vida de su familia.",
+        "año": "2005",
+        "genero": "Accion/Ciencia Ficcion/Suspenso/Terror",
+        "duracion": "116 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Como Si Fuera La Primera Vez",
+    "imagen": "../public/ComoSiFueraLaPrimeraVez.jpg",
+    "sinopsis": "Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.",
+        "año": "2004",
+        "genero": "Comedia/Romance/Drama",
+        "duracion": "99 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Passengers",
+    "imagen": "../public/Passengers.jpg",
+    "sinopsis": "Dos pasajeros que viajan en hibernación a un planeta lejano despiertan, por un error técnico, 90 años antes de llegar a destino. Solos y rodeados de lujos, entre ellos surge el amor; sin embargo, descubren que hay una avería en la nave y tendrán que repararla a tiempo para salvar a las 5 000 personas que permanecen hibernando, y a sí mismos.",
+        "año": "2016",
+        "genero": "Accion/Aventura/Romance",
+        "duracion": "116 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "¿A Quien Ama Gilbert Grape?",
+    "imagen": "../public/AQuienAmaGilbertGrape.jpg",
+    "sinopsis": "En Endora, un pequeño pueblo del Medio Oeste estadounidense, vive Gilbert Grape, un joven empleado en un supermercado cuya vida es cuidar de una madre inmensamente obesa y de un hermano con discapacidad mental, y está cansado de su rutina. Su vida transcurre anodina hasta que la llegada de Becky, una chica moderna y muy especial, lo cambia todo.",
+        "año": "1993",
+        "genero": "Drama",
+        "duracion": "118 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Shrek",
+    "imagen": "../public/Shrek.jpg",
+    "sinopsis": "Un ogro llamado Shrek vive en su pantano, pero su preciada soledad se ve súbitamente interrumpida por la invasión de los ruidosos personajes de los cuentos de hadas. Todos fueron expulsados de sus reinos por el malvado Lord Farquaad. Decidido a salvar su hogar, Shrek hace un trato con Farquaad y se prepara para rescatar a la princesa Fiona, quien será la esposa de Farquaad.",
+        "año": "2001",
+        "genero": "Animacion/Aventura/Comedia",
+        "duracion": "92 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Jurassic Park",
+    "imagen": "../public/JurassicPark.jpg",
+    "sinopsis": "Tres expertos y otras personas son invitados a un parque de diversiones, donde se encuentran dinosaurios creados en base al ADN.",
+        "año": "1993",
+        "genero": "Ciencia Ficion/Aventura/Accion",
+        "duracion": "127 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Juego De Gemelas",
+    "imagen": "../public/JuegoDeGemelas.jpg",
+    "sinopsis": "Una niña de 11 años conoce a su gemela de California. Las dos idean un plan para reunir a sus padres divorciados.",
+        "año": "1998",
+        "genero": "Comedia/Romance",
+        "duracion": "128 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Precio Del Mañana",
+    "imagen": "../public/ElPrecioDelMañana.jpg",
+    "sinopsis": "Un hombre es acusado de asesinato y debe encontrar la forma de acabar con un sistema en donde el tiempo es dinero, permitiéndole a los ricos vivir para siempre, mientras los pobres ruegan por cada minuto de vida.",
+        "año": "2011",
+        "genero": "Suspenso/Ciencia Ficcion/Accion",
+        "duracion": "109 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Curioso Caso De Benjamin Button",
+    "imagen": "../public/ElCuriosoCasoDeBenjaminButton.jpg",
+    "sinopsis": "Benjamin Button nace como un hombre mayor en Nueva Orleans y rejuvenece. Poco a poco, se familiariza con la naturaleza del amor y la muerte.",
+        "año": "2008",
+        "genero": "Romance/Fantasia/Drama",
+        "duracion": "166 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Imparable",
+    "imagen": "../public/Imparable.jpg",
+    "sinopsis": "Dos hombres intentan detener un tren fuera de control que transporta un cargamento tóxico, poniendo en peligro la vida de miles de personas.",
+        "año": "2010",
+        "genero": "Accion/Drama",
+        "duracion": "101 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "La Llamada",
+    "imagen": "../public/LaLlamada.jpeg",
+    "sinopsis": "Una reportera debe resolver el misterio de una cinta que trae muerte a sus espectadores, antes de que sucumba a su poder.",
+        "año": "2002",
+        "genero": "Terror/Suspenso",
+        "duracion": "115 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Titanic",
+    "imagen": "../public/Titanic.jpg",
+    "sinopsis": "Una joven de la alta sociedad abandona a su arrogante pretendiente por un artista humilde en el trasatlántico que se hundió durante su viaje inaugural.",
+        "año": "1997",
+        "genero": "Romance/Drama",
+        "duracion": "195 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Juana De Arco",
+    "imagen": "../public/JuanaDeArco.jpg",
+    "sinopsis": "Una adolescente (Milla Jovovich) con visiones etéreas se convierte en líder militar.",
+        "año": "1999",
+        "genero": "Drama/Historia",
+        "duracion": "158 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "Buscando A Nemo",
+    "imagen": "../public/BuscandoANemo.jpeg",
+    "sinopsis": "Marlin, un pez payaso, siempre ha intentado proteger de todos los peligros a su hijo. Sin embargo, un buzo atrapa al pequeño, y ahora el padre deberá embarcarse en una increíble aventura por las aguas australianas para encontrarlo.",
+        "año": "2003",
+        "genero": "Animacion/Comedia/Aventura",
+        "duracion": "100 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Rescatando Al Soldado Ryan",
+    "imagen": "../public/RescatandoAlSoldadoRyan.jpg",
+    "sinopsis": "Después de desembarcar en Normandía, en plena Segunda Guerra Mundial, unos soldados norteamericanos deben arriesgar sus vidas para salvar al soldado James Ryan, cuyos tres hermanos han muerto en la guerra.",
+        "año": "1998",
+        "genero": "Drama/Historia/Belico",
+        "duracion": "169 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Destino Final 2",
+    "imagen": "../public/DestinoFinal2.jpg",
+    "sinopsis": "La muerte regresa para reclamar la vida de quien debió morir, pero sobrevivió a un horrible accidente de carretera.",
+        "año": "2003",
+        "genero": "Terror/Thriller/Slasher",
+        "duracion": "90 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Perfecto Asesino",
+    "imagen": "../public/ElPerfectoAsesino.jpg",
+    "sinopsis": "El corazón de un asesino profesional se ablanda gracias a su experiencia con una huérfana que quiere aprender su oficio.",
+        "año": "1994",
+        "genero": "Accion/Drama",
+        "duracion": "133 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "¿Y Donde Estan Las Rubias?",
+    "imagen": "../public/YDondeEstanLasRubias.jpg",
+    "sinopsis": "Dos torpes agentes del FBI se hacen pasar por dos chicas de la alta sociedad para investigar una serie de secuestros. No obstante, mientras preparan su plan, descubren que irrumpir en la clase privilegiada es mucho más duro de lo que creían.",
+        "año": "2004",
+        "genero": "Comedia",
+        "duracion": "109 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Si Tuviera 30",
+    "imagen": "../public/SiTuviera30.jpg",
+    "sinopsis": "Una impopular jovencita se convierte por arte de magia en una exitosa adulta tras haber conjurado un deseo en su fiesta.",
+        "año": "2004",
+        "genero": "Comedia/Fantasia",
+        "duracion": "98 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Ni Idea",
+    "imagen": "../public/NiIdea.jpg",
+    "sinopsis": "Cher y Dionne son dos de las chicas más populares de una escuela secundaria de Beverly Hills. Su máxima preocupación es llevar la ropa más atractiva y ser tan populares como sea posible. Pero a pesar de su apariencia, Cher tiene un gran corazón.",
+        "año": "1995",
+        "genero": "Comedia",
+        "duracion": "98 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Si Decido Quedarme",
+    "imagen": "../public/SiDecidoQuedarme.jpg",
+    "sinopsis": "Cuando un accidente automovilístico la deja entre la vida y la muerte, una adolescente debe enfrentar una decisión que determinará su destino final.",
+        "año": "2014",
+        "genero": "Drama",
+        "duracion": "100 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "La Vigilante Del Futuro",
+    "imagen": "../public/LaVigilanteDelFuturo.jpg",
+    "sinopsis": "Un híbrido entre humana y robot, única en su especie, lidera un equipo de élite en la batalla que los enfrenta a un enemigo muy poderoso que pretende destruir los avances en cibertecnología de Hanka, una compañía que fabrica robots.",
+        "año": "2017",
+        "genero": "Ciencia Ficion/Accion/Misterio",
+        "duracion": "106 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Toy Story",
+    "imagen": "../public/ToyStory.jpg",
+    "sinopsis": "Woody, el juguete favorito de Andy, se siente amenazado por la inesperada llegada de Buzz Lightyear, el guardián del espacio.",
+        "año": "1995",
+        "genero": "Animacion/Comedia/Aventura",
+        "duracion": "81 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Mente Siniestra",
+    "imagen": "../public/MenteSiniestra.jpg",
+    "sinopsis": "Un viudo intenta reconstruir su vida tras el suicidio de su esposa. Su hija encuentra consuelo en Charlie, su amigo imaginario.",
+        "año": "2005",
+        "genero": "Suspenso/Drama/Terror",
+        "duracion": "101 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Madagascar",
+    "imagen": "../public/Madagascar.jpg",
+    "sinopsis": "Un grupo de animales que pasaron toda su vida en un zoológico de Nueva York terminan por error en la selva de Madagascar y no tienen más remedio que aprender a sobrevivir en la naturaleza.",
+        "año": "2005",
+        "genero": "Animacion/Comedia/Aventura",
+        "duracion": "86 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "La Cosa Mas Dulce",
+    "imagen": "../public/LaCosaMasDulce.jpg",
+    "sinopsis": "Tras años evitando comenzar relaciones serias con los hombres, Christina conoce una noche a un chico del cual se enamora perdidamente. Cuando, al día siguiente, descubre que el joven ha dejado la ciudad, Christina y su mejor amiga emprenden un alocado viaje en su búsqueda.",
+        "año": "2002",
+        "genero": "Comedia/Romance",
+        "duracion": "85 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Bajo Amenaza",
+    "imagen": "../public/BajoAmenaza.jpg",
+    "sinopsis": "Un exSWAT se ve obligado a entrar de nuevo en acción cuando tres secuestradores toman a un hombre y sus dos hijos como rehenes y amenazan a la familia.",
+        "año": "2005",
+        "genero": "Accion",
+        "duracion": "113 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Pearl Harbor",
+    "imagen": "../public/PearlHarbor.jpg",
+    "sinopsis": "Rafe y Danny, dos pilotos que sobrevivieron al bombardeo de Pearl Harbor, amigos desde la infancia y luego rivales por el amor de una mujer, deben superar sus diferencias y unirse cuando el gobierno los envía a una misión secreta.",
+        "año": "2001",
+        "genero": "Drama/Romance/Belico",
+        "duracion": "183 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Coleccionista",
+    "imagen": "../public/ElColeccionista.jpg",
+    "sinopsis": "Un hombre desesperado por dinero para pagar una deuda, tiene como objetivo la casa de una familia rica, planea entrar en ella y robar una joya valiosa. Muy pronto descubre que eligió la noche equivocada para realizar sus planes, ya que un demente enmascarado llegó ahí primero, encerrando a la familia y colocando varias trampas mortales en la mansión.",
+        "año": "2009",
+        "genero": "Terror/Slasher",
+        "duracion": "90 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Lucy",
+    "imagen": "../public/Lucy.jpg",
+    "sinopsis": "Lucy, una joven que ejerce de 'mula' para unos narcotraficantes, adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber los estupefacientes.",
+        "año": "2014",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "89 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "El Transportador",
+    "imagen": "../public/ElTransportador.jpg",
+    "sinopsis": "El exmilitar Frank Martin vive lo que parece ser una vida tranquila, prestando sus servicios como transportador, pero cuando rompe las tres reglas de conducta por las que se rige, la violencia vuelve a adueñarse de su vida.",
+        "año": "2002",
+        "genero": "Accion",
+        "duracion": "88 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "Harry Potter Y La Piedra Filosofal",
+    "imagen": "../public/HarryPotterYLaPiedraFilosofal.jpg",
+    "sinopsis": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.",
+        "año": "2001",
+        "genero": "Fantasia/Aventura",
+        "duracion": "152 minutos",
+        "pais": "Reino Unido/Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Click",
+    "imagen": "../public/Click.jpg",
+    "sinopsis": "Un arquitecto que trabaja demasiado consigue un control remoto universal que le permite adelantar, retrasar y detener el mundo que lo rodea. Las complicaciones se presentan cuando el artefacto empieza a fallar y adelanta la vida del arquitecto a su manera.",
+        "año": "2006",
+        "genero": "Ciencia Ficion/Comedia/Drama",
+        "duracion": "108 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Hombre En Llamas",
+    "imagen": "../public/HombreEnLlamas.jpg",
+    "sinopsis": "Contratado como guardaespaldas de una niña, un agente retirado de la CIA se venga de sus secuestradores en México.",
+        "año": "2004",
+        "genero": "Accion/Drama/Suspenso",
+        "duracion": "146 minutos",
+        "pais": "Estados Unidos/Mexico"
+
+   },
+
+   {
+    "titulo": "Los Juegos Del Hambre",
+    "imagen": "../public/LosJuegosDelHambre.jpg",
+    "sinopsis": "En lo que alguna vez fue Norteamérica, la capital de Panem mantiene sus 12 distritos obligándolos a seleccionar a un niño y a una niña, llamados Tributos, a competir en un evento televisado nacionalmente llamado los Juegos del Hambre. Cada ciudadano debe ver pelear a muerte a los jóvenes. El Tributo del Distrito 12, Katniss Everdeen, solo confía en sus habilidades de caza y buenos instintos en un escenario en donde debe sobrevivir contra la humanidad.",
+        "año": "2012",
+        "genero": "Ciencia Ficion/Accion/Drama",
+        "duracion": "142 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Los Simpson",
+    "imagen": "../public/LosSimpson.jpg",
+    "sinopsis": "La combinación de Homero, su nuevo puerco mascota, y un silo lleno de excremento podrían provocar un desastre que amenace no solo a Springfield, sino al mundo entero. Una muchedumbre enojada llega a la casa de los Simpson y divide a la familia. Con el destino de la Tierra en juego, Homero se prepara para intentar redimirse con la intención de salvar al mundo y ganarse el perdón de Marge.",
+        "año": "2007",
+        "genero": "Animacion/Comedia/Aventura",
+        "duracion": "87 minutos",
+        "pais": "Estados Unidos/Canada"
+
+   },
+
+   {
+    "titulo": "Dia De Entrenamiento",
+    "imagen": "../public/DiaDeEntrenamiento.jpg",
+    "sinopsis": "Un corrupto oficial usa la fanfarronería, intimidación y drogas para que un nuevo policía se vuelva uno de los suyos.",
+        "año": "2001",
+        "genero": "Drama/Suspenso",
+        "duracion": "122 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Scream",
+    "imagen": "../public/Scream.jpg",
+    "sinopsis": "Un asesino en serie, que viste una máscara blanca y una túnica negra, siembra el pánico entre los adolescentes de un pueblo californiano.",
+        "año": "1996",
+        "genero": "Terror/Slasher",
+        "duracion": "111 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "De La Cuna A La Tumba",
+    "imagen": "../public/DeLaCunaALaTumba.jpg",
+    "sinopsis": "El ladrón Anthony Fait asalta una joyería y logra escapar del equipo SWAT que lo persigue, pero cuando su hija es secuestrada, recibe la ayuda de Su, un policía taiwanés, para salvarla y recuperar el botín, un extraordinario alijo de diamantes negros.",
+        "año": "2003",
+        "genero": "Accion",
+        "duracion": "101 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Matrix",
+    "imagen": "../public/Matrix.jpg",
+    "sinopsis": "Un experto en computadoras descubre que su mundo es una simulación total creada con maliciosas intenciones por parte de la ciberinteligencia.",
+        "año": "1999",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "136 minutos",
+        "pais": "Estados Unidos/Australia"
+
+   },
+
+   {
+    "titulo": "Narnia",
+    "imagen": "../public/Narnia.jpg",
+    "sinopsis": "Cuatro niños viajan a través de un ropero a la tierra de Narnia, donde vivirán increíbles aventuras con la ayuda del león Aslan.",
+        "año": "2005",
+        "genero": "Aventura/Accion/Fantasia",
+        "duracion": "143 minutos",
+        "pais": "Reino Unido/Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Crepusculo",
+    "imagen": "../public/Crepusculo.jpg",
+    "sinopsis": "Bella Swan se va a vivir con su padre al pequeño pueblo de Forks, donde conoce a Edward, un atractivo y misterioso chico del que se enamora y quien esconde un gran secreto: es un vampiro. Pero la familia del chico guarda una peculiaridad, y es que no se alimenta de sangre humana.",
+        "año": "2008",
+        "genero": "Romance/Fantasia",
+        "duracion": "121 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "En Busca De La Felicidad",
+    "imagen": "../public/EnBuscaDeLaFelicidad.jpg",
+    "sinopsis": "La vida es una lucha para Chris Gardner. Expulsado de su apartamento, él y su joven hijo se encuentran solos sin ningún lugar a donde ir. A pesar de que Chris eventualmente consigue trabajo como interno en una prestigiada firma financiera, la posición no le da dinero. El dúo debe vivir en un albergue y enfrentar muchas dificultades, pero Chris no se da por vencido y lucha por conseguir una vida mejor para él y su hijo.",
+        "año": "2006",
+        "genero": "Drama/Biografia",
+        "duracion": "117 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Premonicion",
+    "imagen": "../public/Premonicion.jpg",
+    "sinopsis": "Linda Hanson tiene una vida idílica hasta que un día ella recibe la noticia de que su marido ha muerto en un accidente automovilístico. Sin embargo, cuando Linda despierta la mañana siguiente y descubre que Jim está a su lado, ella considera que sólo ha vivido un extraño sueño. Muy pronto descubre que lo que experimentó no fue un sueño, y debe luchar contra el tiempo y el destino para salvar a su familia.",
+        "año": "2007",
+        "genero": "Suspenso",
+        "duracion": "94 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "La Era Del Hielo",
+    "imagen": "../public/LaEraDelHielo.jpg",
+    "sinopsis": "Esta película nominada al Oscar está ambientada en la Edad de Hielo. Un tigre dientes de sable, un perezoso y un mamut lanudo encuentran a un bebé humano perdido e intentan devolverlo a su tribu.",
+        "año": "2002",
+        "genero": "Animacion/Comedia/Aventura",
+        "duracion": "81 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "King Kong",
+    "imagen": "../public/KingKong.jpg",
+    "sinopsis": "Un grupo de exploradores, liderado por un extrovertido director de cine, visitan Skull Island para investigar todo lo relacionado con la leyenda del gorila gigante llamado King Kong. Ahí encuentran una jungla llena de criaturas prehistóricas.",
+        "año": "2005",
+        "genero": "Aventura/Drama/Accion/Romance",
+        "duracion": "187 minutos",
+        "pais": "Estados Unidos/Nueva Zelanda"
+
+   },
+
+   {
+    "titulo": "La Llegada",
+    "imagen": "../public/LaLlegada.jpg",
+    "sinopsis": "El gobierno contrata a la prestigiosa lingüista Louise Banks para que se comunique con unos alienígenas que han llegado a la Tierra. Conforme ella aprende su idioma, va experimentando regresiones muy intensas que desvelan la verdadera misión que les ha llevado hasta nuestro planeta.",
+        "año": "2016",
+        "genero": "Ciencia Ficion",
+        "duracion": "116 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Mi Nombre Es Sam",
+    "imagen": "../public/MiNombreEsSam.jpg",
+    "sinopsis": "Un padre que padece una discapacidad mental debe luchar para ganar de nuevo la custodia de su querida hija.",
+        "año": "2001",
+        "genero": "Drama",
+        "duracion": "134 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Arrastrame Al Infierno",
+    "imagen": "../public/ArrastrameAlInfierno.jpg",
+    "sinopsis": "Después de que sus acciones provocan que una anciana pierda su casa, la ambiciosa empleada de un banco se convierte en la víctima de una poderosa maldición que podría condenar su alma eternamente.",
+        "año": "2009",
+        "genero": "Terror",
+        "duracion": "99 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Cincuenta Sombras De Grey",
+    "imagen": "../public/CincuentaSombrasDeGrey.jpg",
+    "sinopsis": "Una estudiante de literatura inicia un romance atrevido con un hombre de negocios controlador cuyos gustos sexuales se encuentran en la frontera del dolor y el placer.",
+        "año": "2015",
+        "genero": "Drama/Romance",
+        "duracion": "125 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Volver Al Futuro",
+    "imagen": "../public/VolverAlFuturo.jpg",
+    "sinopsis": "Una máquina del tiempo transporta a un adolescente a los años 50, cuando sus padres todavía estudiaban en la secundaria.",
+        "año": "1985",
+        "genero": "Ciencia Ficcion/Aventura/Comedia",
+        "duracion": "117 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Codigo Enigma",
+    "imagen": "../public/ElCodigoEnigma.jpg",
+    "sinopsis": "Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos.",
+        "año": "201",
+        "genero": "Drama/Biopic/Belico",
+        "duracion": "113 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Al Filo Del Mañana",
+    "imagen": "../public/AlFiloDelMañana.jpg",
+    "sinopsis": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra, entra en un bucle temporal en el cual revive constantemente y vuelve a intentar salvar el planeta, mejorando sus habilidades, conociendo mejor al enemigo, y acercándose cada vez más a la victoria. Sin embargo, el tiempo corre en su contra.",
+        "año": "2014",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "113 minutos",
+        "pais": "Estados Unidos/Canada"
+
+   },
+
+   {
+    "titulo": "X-Men",
+    "imagen": "../public/XMen.jpg",
+    "sinopsis": "El profesor Xavier lidera a Wolverine y otros superhéroes contra Magneto, un mutante que busca dominar a la humanidad.",
+        "año": "2000",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "104 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Capitan Phillips",
+    "imagen": "../public/CapitanPhillips.jpg",
+    "sinopsis": "En el año 2009, un grupo de piratas somalíes secuestran un barco carguero estadounidense y toman como rehenes a la tripulación. Entre ellos está el capitán del navío, Richard Phillips.",
+        "año": "2013",
+        "genero": "Drama/Biografia",
+        "duracion": "133 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Perdida",
+    "imagen": "../public/Perdida.jpg",
+    "sinopsis": "Un hombre reporta que su esposa desapareció en su quinto aniversario de bodas, pero la imagen pública de una relación feliz empieza a desmoronarse por la presión de la policía y de los medios de comunicación.",
+        "año": "2014",
+        "genero": "Suspenso Psicologico",
+        "duracion": "149 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "El Señor De Los Anillos",
+    "imagen": "../public/ElSeñorDeLosAnillos.jpg",
+    "sinopsis": "Frodo Bolsón es un hobbit al que su tío Bilbo hace portador del poderoso Anillo Único, capaz de otorgar un poder ilimitado al que la posea, con la finalidad de destruirlo. Sin embargo, fuerzas malignas muy poderosas quieren arrebatárselo.",
+        "año": "2001",
+        "genero": "Aventura/Fantasia",
+        "duracion": "178 minutos",
+        "pais": "Estados Unidos/Nueva Zelanda"
+
+   },
+
+   {
+    "titulo": "Monster House",
+    "imagen": "../public/MonsterHouse.jpg",
+    "sinopsis": "Ningún adulto le cree a tres chicos que afirman que una residencia de la vecindad es una criatura viviente que representa un peligro. Ante la cercanía del Día de Brujas, el trío debe hallar la forma de destruir su estructura antes de que los niños inocentes resulten afectados.",
+        "año": "2006",
+        "genero": "Animacion/Comedia/Terror",
+        "duracion": "91 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Rapido Y Furioso",
+    "imagen": "../public/RapidoYFurioso.jpg",
+    "sinopsis": "El oficial Brian O'Conner debe decidir dónde queda su lealtad cuando se enamora del mundo de las carreras callejeras, donde trabaja como agente encubierto con la misión de desaparecerlas.",
+        "año": "2001",
+        "genero": "Accion",
+        "duracion": "107 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Avatar",
+    "imagen": "../public/Avatar.jpg",
+    "sinopsis": "En un exuberante planeta llamado Pandora viven los Na'vi, seres que aparentan ser primitivos pero que en realidad son muy evolucionados. Debido a que el ambiente de Pandora es venenoso, los híbridos humanos/Na'vi, llamados Avatares, están relacionados con las mentes humanas, lo que les permite moverse libremente por Pandora. Jake Sully, un exinfante de marina paralítico se transforma a través de un Avatar, y se enamora de una mujer Na'vi.",
+        "año": "2009",
+        "genero": "Animacion/Ciencia Ficcion/Aventura/Accion",
+        "duracion": "162 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Pulp Fiction",
+    "imagen": "../public/PulpFiction.jpg",
+    "sinopsis": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
+        "año": "1994",
+        "genero": "Crimen",
+        "duracion": "154 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Dune",
+    "imagen": "../public/Dune.jpg",
+    "sinopsis": "Arrakis, también denominado 'Dune', se ha convertido en el planeta más importante del universo. A su alrededor comienza una gigantesca lucha por el poder que culmina en una guerra interestelar.",
+        "año": "2021",
+        "genero": "Ciencia Ficion",
+        "duracion": "156 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Carrie",
+    "imagen": "../public/Carrie.jpg",
+    "sinopsis": "Atormentada por sus compañeros y sobreprotegida por una madre fanática religiosa, una adolescente tímida desarrolla poderes sobrenaturales cuando una broma pesada la humilla especialmente. A partir de ese momento, su venganza será terrible.",
+        "año": "2013",
+        "genero": "Terror/Slasher",
+        "duracion": "100 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Jumanji",
+    "imagen": "../public/Jumanji.jpg",
+    "sinopsis": "La historia de un juego mágico que libera una estampida de peligros de la selva contra sus jugadores y un hombre que desapareció en 1969 mientras jugaba.",
+        "año": "1995",
+        "genero": "Fantasia/Aventura",
+        "duracion": "104 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Scary Movie",
+    "imagen": "../public/ScaryMovie.jpg",
+    "sinopsis": "Una parodia de los filmes de asesinatos donde un homicida vengativo acecha a un grupo de adolescentes.",
+        "año": "2000",
+        "genero": "Comedia/Parodia/Slasher",
+        "duracion": "88 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Loco Por Mary",
+    "imagen": "../public/LocoPorMary.jpg",
+    "sinopsis": "Un cretino (Ben Stiller) emplea un detective (Matt Dillon) privado para espiar en la mujer (Cameron Diaz) que ha amado desde el colegio.",
+        "año": "1998",
+        "genero": "Comedia/Romance",
+        "duracion": "119 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "ColoniaDignidad",
+    "imagen": "../public/ColoniaDignidad.jpg",
+    "sinopsis": "Una mujer trata de rescatar a su novio cuando él es tomado como prisionero durante el golpe de Estado militar de 1973 en Chile.",
+        "año": "2016",
+        "genero": "Suspenso/Drama",
+        "duracion": "110 minutos",
+        "pais": "Chile"
+
+   },
+
+   {
+    "titulo": "El Origen Del Planeta De Los Simios",
+    "imagen": "../public/ElOrigenDelPlanetaDeLosSimios.jpg",
+    "sinopsis": "Will Rodman (James Franco), un científico de San Francisco, está experimentando con una droga con la que espera curar la enfermedad de Alzheimer que sufre su padre. Después de que su trabajo presenta una falla, Will se convierte en el protector de un chimpancé que estuvo expuesto a la droga.",
+        "año": "2011",
+        "genero": "Ciencia Ficion",
+        "duracion": "104 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Resident Evil 4",
+    "imagen": "../public/ResidentEvil4.jpg",
+    "sinopsis": "En un mundo invadido por los muertos vivientes, Alice continúa su batalla en contra de una corporación, deteniendo a los sobrevivientes a lo largo del camino. Alice, un viejo amigo y sus compañeros se dirigen a un supuesto sitio seguro en Los Ángeles. Sin embargo, en vez de encontrar un santuario, ellos descubren una ciudad controlada por los zombies y una trampa que está por sorprenderlos.",
+        "año": "2010",
+        "genero": "Accion/Ciencia Ficcion/Terror",
+        "duracion": "97 minutos",
+        "pais": "Reino Unido/Alemania/Canada/Francia/Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Busqueda Implacable",
+    "imagen": "../public/BusquedaImplacable.jpg",
+    "sinopsis": "El exagente de las fuerzas especiales de élite Bryan Millis se ve enredado en la trama de una organización criminal cuando intenta salvar a su hija Kim, pero solo tiene 96 horas para rescatarla antes de perder el rastro.",
+        "año": "2008",
+        "genero": "Accion/Suspenso",
+        "duracion": "93 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "Transformers",
+    "imagen": "../public/Transformers.jpg",
+    "sinopsis": "El destino de la humanidad está en juego cuando dos razas de robots, los buenos Autobots y los villanos Decepticons, llevan su guerra a la Tierra. Los robots tienen la habilidad de transformarse en diferentes objetos mecánicos mientras buscan la clave del poder supremo. Sólo un joven humano, Sam Witwicky puede salvar al mundo de la destrucción total.",
+        "año": "2007",
+        "genero": "Ciencia Ficcion/Accion",
+        "duracion": "143 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Pokemon: Detective Pikachu",
+    "imagen": "../public/PokemonDetectivePikachu.jpg",
+    "sinopsis": "Un joven une fuerzas con el detective Pikachu para desentrañar el misterio detrás de la desaparición de su padre. El dúo dinámico descubre una trama tortuosa que representa una amenaza para el universo Pokémon.",
+        "año": "2019",
+        "genero": "Accion/Aventura/Fantasia",
+        "duracion": "104 minutos",
+        "pais": "Estados Unidos/Japon"
+
+   },
+
+   {
+    "titulo": "Sonic: El Erizo",
+    "imagen": "../public/SonicElErizo.jpg",
+    "sinopsis": "Sonic intenta atravesar las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Deberán unir sus fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo.",
+        "año": "2020",
+        "genero": "Accion/Aventura/Ciencia Ficcion",
+        "duracion": "99 minutos",
+        "pais": "Estados Unidos/Japon"
+
+   },
+
+   {
+    "titulo": "Los Otros",
+    "imagen": "../public/LosOtros.jpg",
+    "sinopsis": "Una viuda afligida descubre sucesos extraños, que apuntan hacia la presencia de fantasmas en su apartada mansión.",
+        "año": "2001",
+        "genero": "Suspenso/Terror/Fantasia",
+        "duracion": "104 minutos",
+        "pais": "Francia/España/Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Blade Runner 2049",
+    "imagen": "../public/BladeRunner.jpg",
+    "sinopsis": "En el año 2049 el oficial K, un nuevo replicante de la policía de Los Ángeles, emprende la búsqueda del replicante Rick Deckard, desaparecido 30 años antes. K piensa que en Deckard reside la clave que podría permitir salvar a la sociedad del caos en el que está inmersa.",
+        "año": "2017",
+        "genero": "Accion/Ciencia Ficcion/Suspenso",
+        "duracion": "163 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Una Loca pelicula Epica",
+    "imagen": "../public/UnaLocaPeliculaEpica.jpg",
+    "sinopsis": "Cuatro adultos (Kal Penn, Adam Campbell, Faune Chambers, Jayma Mays) huérfanos viven una aventura increíble durante la parodia de un éxito cinematográfico y unos filmes de fantasía.",
+        "año": "2007",
+        "genero": "Comedia",
+        "duracion": "86 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Amigos Intocables",
+    "imagen": "../public/AmigosIntocables.jpg",
+    "sinopsis": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+        "año": "2011",
+        "genero": "Comedia/Drama",
+        "duracion": "112 minutos",
+        "pais": "Francia"
+
+   },
+
+   {
+    "titulo": "Se Busca",
+    "imagen": "../public/SeBusca.jpg",
+    "sinopsis": "Wesley Gibson es un oficinista cuya vida no tiene dirección. Después de que su padre es asesinado, Wesley conoce a Fox, que lo recluta en la Fraternidad, una sociedad secreta de asesinos que recibe órdenes de Dios. Fox y Sloan, los líderes, le enseñan a descubrir sus poderes ocultos. A pesar de que Wesley disfruta de sus nuevas habilidades, empieza a sospechar que la Fraternidad oculta un gran secreto.",
+        "año": "2008",
+        "genero": "Accion",
+        "duracion": "110 minutos",
+        "pais": "Estados Unidos/Reino Unido"
+
+   },
+
+   {
+    "titulo": "Un Viernes De Locos",
+    "imagen": "../public/UnViernesDeLocos.jpg",
+    "sinopsis": "Dos galletas de la suerte provocan que una psicoterapeuta comprometida y su hija adolescente intercambien mágicamente sus cuerpos.",
+        "año": "2003",
+        "genero": "Comedia/Fantasia",
+        "duracion": "97 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Gladiador",
+    "imagen": "../public/Gladiador.jpg",
+    "sinopsis": "Máximo, general romano, desea volver a casa, pero el emperador Marco Aurelio quiere que herede el imperio. Esto hace que Cómodo ordene matar a su familia. Máximo escapa de la muerte y regresa a Roma como gladiador para vengar la muerte de su familia.",
+        "año": "2000",
+        "genero": "Accion/Aventura/Drama",
+        "duracion": "155 minutos",
+        "pais": "Reino Unido/Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Jeepers Creepers",
+    "imagen": "../public/JeepersCreepers.jpg",
+    "sinopsis": "Trish y Darry, dos hermanos universitarios, viajan por carretera para ir a visitar a sus padres. Por el camino sintonizan una canción que anuncia la presencia de una criatura aterradora, un ser demencial que quiere algo de ellos. ",
+        "año": "2001",
+        "genero": "Terror",
+        "duracion": "91 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Juegos Sexuales",
+    "imagen": "../public/JuegosSexuales.jpg",
+    "sinopsis": "Dos jóvenes adinerados pero maliciosos, apuestan sobre la seducción y el arrebato de la virginidad de dos de sus compañeras.",
+        "año": "1999",
+        "genero": "Drama",
+        "duracion": "97 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+   {
+    "titulo": "Mision Imposible",
+    "imagen": "../public/MisionImposible.jpg",
+    "sinopsis": "El espía Ethan Hunt debe llevar a cabo una misión imposible: evitar la venta de un disco robado que contiene información confidencial y, al mismo tiempo, limpiar su nombre tras haber sido acusado del asesinato de su mentor.",
+        "año": "1996",
+        "genero": "Accion/Aventura",
+        "duracion": "110 minutos",
+        "pais": "Estados Unidos/Reino Unido/Escocia/Republica Checa"
+
+   },
+
+
+   {
+    "titulo": "El Espanta Tiburones",
+    "imagen": "../public/ElEspantaTiburones.jpg",
+    "sinopsis": "El hijo de un tiburón mafioso muere cuando le cae un ancla encima. Un pez con mucho descaro y sueños de grandeza se encontraba en la escena del crimen y, para darse importancia, se atribuye la muerte. Sin duda, un grave error.",
+        "año": "2004",
+        "genero": "Animacion/Comedia",
+        "duracion": "88 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Mulholland Drive",
+    "imagen": "../public/MulhollandDrive.jpg",
+    "sinopsis": "Una mujer (Laura Elena Harring) de cabellos oscuro es abandonada amnésica después de un accidente automovilístico. Ella recorre las calles de Los Ángeles entes de refugiarse en un departamento. Ahí ella es descubierta por Betty (Naomi Watts), una rubia del medio oeste que ha llegado a la Ciudad de los Ángeles en busca de fama como una actriz. Juntas, las dos intentan resolver el misterio de la verdadera identidad de Rita. La historia está ambientada en un lugar de ensueño, sin tráfico y humo.",
+        "año": "2001",
+        "genero": "Suspenso/Misterio",
+        "duracion": "147 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Top Gun",
+    "imagen": "../public/TopGun.jpg",
+    "sinopsis": "El joven piloto Maverick Mitchell acude a una prestigiosa escuela aérea, famosa por formar a los mejores pilotos de combate del país. Maverick se siente atraído por su hermosa instructora, mientras desarrolla una intensa rivalidad con otro piloto.",
+        "año": "1986",
+        "genero": "Accion/Drama/Romance",
+        "duracion": "110 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "El Justiciero",
+    "imagen": "../public/ElJusticiero.jpg",
+    "sinopsis": "Robert McCall, un antiguo comando de operaciones especiales que ha fingido su propia muerte, se ve obligado a salir de su retiro para salvar la vida de Teri, una joven que se encuentra en manos de unos mafiosos rusos ultraviolentos.",
+        "año": "2014",
+        "genero": "Accion/Suspenso",
+        "duracion": "132 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "El Quinto Elemento",
+    "imagen": "../public/ElQuintoElemento.jpg",
+    "sinopsis": "Cada 5.000 años se abre una puerta entre dos dimensiones. En una dimensión existe el Universo y la vida y en la otra un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una antienergía: El quinto elemento.",
+        "año": "1997",
+        "genero": "Ciencia Ficcion/Accion",
+        "duracion": "127 minutos",
+        "pais": "Francia"
+
+   },
+
+
+   {
+    "titulo": "Kick Ass",
+    "imagen": "../public/KickAss.jpg",
+    "sinopsis": "A pesar de la falta completa de poderes extraordinarios, un adolescente se reinventa a sí mismo como un superhéroe y se enfrenta a un jefe criminal.",
+        "año": "2010",
+        "genero": "Accion/Comedia/Drama",
+        "duracion": "117 minutos",
+        "pais": "Estados Unidos/Reino Unido"
+
+   },
+
+
+   {
+    "titulo": "Inframundo",
+    "imagen": "../public/Inframundo.jpg",
+    "sinopsis": "Una mujer vampiro trata de proteger a un estudiante de unos hombres lobo que intentan crear una especie híbrida.",
+        "año": "2003",
+        "genero": "Accion/Terror",
+        "duracion": "121 minutos",
+        "pais": "Estados Unidos/Reino Unido/Alemania/Hungria"
+
+   },
+
+
+   {
+    "titulo": "Rescate Del Metro 123",
+    "imagen": "../public/RescateDelMetro123.jpg",
+    "sinopsis": "Walter Garber es un controlador del metro de Nueva York que se enfrenta al secuestro de uno de los trenes. Ryder es el líder de una banda criminal que amenaza con ejecutar a los pasajeros del metro si no se le entrega un cuantioso rescate.",
+        "año": "2009",
+        "genero": "Thriller/Accion",
+        "duracion": "121 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Harry Potter Y La Camara Secreta",
+    "imagen": "../public/HarryPotterYLaCamaraSecreta.jpg",
+    "sinopsis": "Terminado el verano, Harry no ve la hora de abandonar la casa de sus odiosos tíos. Inesperadamente se presenta en su dormitorio Dobby, un elfo doméstico, que le anuncia que correrá un gran peligro si vuelve a Hogwarts.",
+        "año": "2002",
+        "genero": "Aventura/Fantasia",
+        "duracion": "161 minutos",
+        "pais": "Reino Unido/Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Pequeñas Grandes Amigas",
+    "imagen": "../public/PequeñasGrandesAmigas.jpg",
+    "sinopsis": "Forzada por las circunstancias, una despreocupada mujer se vuelve la niñera de la hija de un ejecutivo neoyorquino.",
+        "año": "2003",
+        "genero": "Coemdia/Drama",
+        "duracion": "92 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Maxima Velocidad",
+    "imagen": "../public/MaximaVelocidad.jpg",
+    "sinopsis": "Un oficial de policía debe detener un autobús metropolitano en el que un psicópata colocó una bomba, la cual explotará si el vehículo baja de los 80 kilómetros por hora.",
+        "año": "1994",
+        "genero": "Accion",
+        "duracion": "116 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Matilda",
+    "imagen": "../public/Matilda.jpg",
+    "sinopsis": "Una niña desarrolla una capacidad mental extraordinaria, a pesar de sus padres descuidados y de una directora abusiva.",
+        "año": "1996",
+        "genero": "Comedia/Drama/Fantasia/Aventura",
+        "duracion": "98 minutos",
+        "pais": "Estados Unidos/Canada"
+
+   },
+
+
+   {
+    "titulo": "Rapido Y Furioso 2",
+    "imagen": "../public/RapidoYFurioso2.jpg",
+    "sinopsis": "El expolicía Brian O'Conner recluta a Roman Pearce, un amigo de la infancia, y juntos regresan al mundo de las carreras para transportar dinero sucio del turbio comerciante de importaciones y exportaciones Carter Verone, cuyo negocio tiene sede en Miami. Se tata de una oportunidad para trabajar con la agente encubierta Mónica Clemente y derribar el imperio de Verone.",
+        "año": "2003",
+        "genero": "Accion/Aventura/Suspenso",
+        "duracion": "107 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Closer",
+    "imagen": "../public/Closer.jpg",
+    "sinopsis": "Una escritora, una fotógrafa, una joven mujer y una exitosa dermatóloga tienen que hacerle frente al amor y la traición.",
+        "año": "2004",
+        "genero": "Drama",
+        "duracion": "105 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "Chicas Pesadas",
+    "imagen": "../public/ChicasPesadas.jpg",
+    "sinopsis": "Recién entrando a la prepa, una adolescente entabla amistad con tres populares, pero también manipuladoras estudiantes.",
+        "año": "2004",
+        "genero": "Comedia",
+        "duracion": "97 minutos",
+        "pais": "Estados Unidos"
+
+   },
+
+
+   {
+    "titulo": "El Dia Despues De Mañana",
+    "imagen": "../public/ElDiaDespuesDeMañana.jpeg",
+    "sinopsis": "Un climatólogo intenta localizar a su hijo luego de que el calentamiento global provocara desastres naturales mundiales.",
+        "año": "2004",
+        "genero": "Accion/Ciencia Ficcion",
+        "duracion": "123 minutos",
+        "pais": "Estados Unidos"
+
+   }
+
+
+
+  
+
+
+
+
+
+    
+    ]

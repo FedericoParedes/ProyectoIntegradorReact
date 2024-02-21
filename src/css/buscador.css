@@ -1,0 +1,158 @@
+
+html,body{
+    background-color: black;
+}
+
+.form{
+    height: 40px;
+    
+}
+
+h3{
+    color: #0095ff;
+}
+
+.container-form{
+    width: 100%;
+    height: 40px;
+    justify-content: space-between;
+}
+
+
+
+.form-control{
+    border: solid 1px;
+    border-color: #0096ff;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.boton-buscar{
+    margin-left: 40px;
+    background-color: black;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: rgb(92, 92, 92);
+    }
+}
+
+.boton-buscar:hover{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: #0096ff;
+    }
+}
+
+.boton-buscar:active{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: white;
+    }
+}
+
+.boton-buscar:visited{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-search{
+        color: #0096ff;
+    }
+}
+
+.boton-catalogo{
+    margin-top: 15px;
+    margin-left: -10px;
+    background-color: black;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    height: 40px;
+    width: 200px;
+    text-wrap: nowrap;
+
+    #span-cat{
+        color: rgb(92, 92, 92);
+    }
+}
+
+.boton-catalogo:hover{
+    background-color: black;
+     #span-cat{
+    color: #0096ff;
+  }
+}
+
+.boton-catalogo:visited{
+    background-color: black;
+     #span-cat{
+    color: white;
+  }
+}
+
+.boton-catalogo:active{
+    background-color: black;
+     #span-cat{
+    color: white;
+  }
+}
+
+.boton-volver{
+    margin-left: 40px;
+    background-color: black;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    height: 40px;
+    width: 200px;
+    #span-home{
+        color: rgb(92, 92, 92);
+    }
+}
+
+.boton-volver:hover{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-home{
+        color: #0096ff;
+    }
+}
+
+.boton-volver:active{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-home{
+        color: white;
+    }
+}
+
+.boton-volver:visited{
+    background-color: black;
+    border: solid 1px;
+    border-color: #0096ff;
+    height: 40px;
+    width: 200px;
+    #span-home{
+        color: #0096ff;
+    }
+}
+
+
+

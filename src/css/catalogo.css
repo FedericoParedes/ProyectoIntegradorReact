@@ -1,0 +1,51 @@
+
+
+
+html,body{
+    background-color: black;
+}
+
+.form{
+    height: 35px;
+    
+}
+
+
+.boton-volver{
+    margin: 10px;
+    background-color: black;
+    border: solid 1px;
+    border-color: rgb(92, 92, 92);
+    height: 40px;
+    width: 200px;
+}
+
+#span-volver{
+  color: rgb(92, 92, 92);
+}
+
+
+.boton-volver:hover{
+    background-color: black;
+     #span-volver{
+      color: #0096ff;
+  }
+}
+
+
+.boton-volver:active{
+  background-color: black;
+   #span-volver{
+    color: #0096ff;
+}
+}
+
+
+.boton-volver:visited{
+  background-color: black;
+   #span-volver{
+    color: #0096ff;
+}
+}
+
+
